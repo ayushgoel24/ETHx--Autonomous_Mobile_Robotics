@@ -1,0 +1,5 @@
+Ques:
+In fact, this filter can be decomposed into a product of a column-vector and a row-vector. How many elements does this row-vector comprise of? Enter your answer below:
+
+Answer:
+5
